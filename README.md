@@ -1,1 +1,1 @@
-My C++ solutions to different problems, not connected to each other.
+My C++ solutions to various problems, not connected to each other.
